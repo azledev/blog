@@ -9,6 +9,7 @@ on:
       - 'config/**'
       - 'hugo.toml'
       - 'Dockerfile'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -31,4 +32,4 @@ jobs:
           push: true
           tags: |
             leomaou/blog:latest
-            leomaou/blog:${{ github.sha }}
+            leomaou/blog:${{ github.run_number }}
