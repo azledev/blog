@@ -4,9 +4,10 @@ draft = false
 title = 'Persona 3 Reload todas as respostas das provas'
 tags = ["persona 3 reload", "persona", "game", "guia"]
 image = "cover.png"
+comments = true
 +++
 
-Eu gosto muito da saga persona e jogo de novo os seus jogos varias vezes durante o ano (pelo menos 3 vezes), e por isso vou deixar salvo no blogue um guia
+Eu gosto muito da saga persona e jogo de novo os seus jogos varias vezes durante o ano (pelo menos 3 vezes), e por isso vou deixar salvo no blog um guia
 de todas as respostas das provas em pt-br, inicialmente vou copiar de um guia da steam que eu sei que a tradução das respostas está errada e que
 a partir de dezembro só tem a opção que tem que responder e nada de tradução da resposta, mas a resposta está correta e comigo jogando de novo vou corrigir a 
 tradução aos poucos para ficar algo certinho.

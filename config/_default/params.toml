@@ -105,7 +105,7 @@ page = [
 
 [comments]
     enabled  = true
-    provider = "disqus"
+    provider = "cusdis"
 
     [comments.disqusjs]
         shortname  = ""
@@ -165,17 +165,17 @@ page = [
         siteName             = ""  # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
     [comments.giscus]
-        repo             = ""
-        repoID           = ""
-        category         = ""
-        categoryID       = ""
-        mapping          = "title"
+        repo             = "azledev/blog"
+        repoID           = "R_kgDORq2ZqA"
+        category         = "Announcements"
+        categoryID       = "DIC_kwDORq2ZqM4C4xM_"
+        mapping          = "pathname"
         lightTheme       = "light"
         darkTheme        = "dark_dimmed"
         reactionsEnabled = 1
         emitMetadata     = 0
-        inputPosition    = "top"
-        lang             = "en"
+        inputPosition    = "bottom"
+        lang             = "pt"
         strict           = 0
         loading          = "lazy"
 
@@ -189,7 +189,7 @@ page = [
 
     [comments.cusdis]
         host = "https://cusdis.com"
-        id   = ""
+        id   = "890b09a5-5354-44ff-a1f7-c8523dd13717"
 
     # Comentario client configuration
     [comments.comentario]

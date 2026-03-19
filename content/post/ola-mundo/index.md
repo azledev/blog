@@ -4,6 +4,7 @@ title = 'Ola Mundo'
 draft = false
 tags = ["hugo", "teste"]
 image = "cover.jpg"
+comments = true
 +++
 
 # Olá, mundo!
