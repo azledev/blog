@@ -3,6 +3,7 @@ date = '2026-03-18T20:37:34-03:00'
 title = 'Ola Mundo'
 draft = false
 tags = ["hugo", "teste"]
+image = "cover.jpg"
 +++
 
 # Olá, mundo!
