@@ -40,13 +40,13 @@ tradução aos poucos para ficar algo certinho.
 
 ### Junho
 
-| Dia   | Pergunta                                                                                                     | Resposta                   |
-| ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| 15/06 | Qual frase significa ‘capaz de ver as coisas como elas realmente são’?                                       | Olho atento. (#1)          |
-| 17/06 | Qual prática religiosa primitiva deu origem à magia?                                                         | Xamanismo. (#3)            |
-| 22/06 | Como as pessoas chamam essa curva?                                                                           | Bruxa de Agnesi. (#3)      |
+| Dia   | Pergunta                                                                                                    | Resposta                   |
+| ----- |-------------------------------------------------------------------------------------------------------------|----------------------------|
+| 15/06 | Qual frase significa ‘capaz de ver as coisas como elas realmente são’?                                      | Olho atento. (#1)          |
+| 17/06 | Qual prática religiosa primitiva deu origem à magia?                                                        | Xamanismo. (#3)            |
+| 22/06 | Do que mais as pessoas chamam essa curva?                                                                   | Bruxa de Agnesi. (#3)*     |
 | 25/06 | Como se chama quando as bolhas de ar em uma banheira de hidromassagem atingem você e fazem seu corpo vibrar? | O efeito de vibração. (#2) |
-| 29/06 | Que forma de magia natural é usada para encontrar fontes de água?                                            | Radiestesia. (#1)          |
+| 29/06 | Que forma de magia natural é usada para encontrar fontes de água?                                           | Radiestesia. (#1)          |
 
 ### Julho
 
