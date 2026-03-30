@@ -3,6 +3,7 @@ date = '2026-03-30T10:06:00-03:00'
 draft = false
 title = 'Guia Feiticeiro Bruxo Para Modo Honra'
 tags = ["bg3", "baldurs gate 3", "game", "guia", "game build"]
+image = "cover.jpg"
 +++
 
 **Build:** 11 Feiticeiro de Linhagem Draconica Vermelha / 1 Bruxo Ínfero
@@ -19,7 +20,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ---
 
-## 📊 Distribuição de Atributos (Início)
+## Distribuição de Atributos (Início)
 
 | Atributo    | Valor Inicial |
 |-------------|--------------|
@@ -34,7 +35,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ---
 
-## 🏫 Subclasse e Origem
+## Subclasse e Origem
 
 - **Classe:** Feiticeiro
 - **Subclasse:** Linhagem Draconica — Ancestral **Vermelho (Fogo)**
@@ -42,7 +43,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ---
 
-## 📈 Progressão de Níveis
+## Progressão de Níveis
 
 ### Nível 1 — Feiticeiro
 - Subclasse: **Linhagem Draconica (Vermelho/Fogo)**
@@ -71,17 +72,17 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 - Substituir: `Magic Missile` → `Counterspell`
 
 ### Nível 7 — **Bruxo (1 nível!)**
-- **🔔 Build pronta!**
+- **Build pronta!**
 - Subclasse: **Ínfero**
 - Magia de Warlock: `Command` ⭐ *(controle principal)*
 - Magia de Warlock: `Hex` *(opcional, útil em bosses)*
 
 > A partir daqui, **todos os níveis restantes voltam para Feiticeiro**.
 
-### Nível 8 — Sorcerer
+### Nível 8 — Feiticeiro
 - Magia nova: `Dimension Door`
 
-### Nível 9 — Sorcerer (FEAT)
+### Nível 9 — Feiticeiro (FEAT)
 - Magia nova: `Hold Monster`
 - **Feat (escolha uma opção):**
 
@@ -94,21 +95,21 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 > 💡 **Se você tiver um Archer de suporte** que possa aplicar Arsonist's Oil, **não precisa de Elemental Adept** — o óleo cobre isso.
 
-### Nível 10 — Sorcerer
+### Nível 10 — Feiticeiro
 - Magia nova: `Telekinesis`
 
-### Nível 11 — Sorcerer
+### Nível 11 — Feiticeiro
 - Magia nova: `Chain Lightning`
 - **Última Metamagia:** `Careful Spell` *(evita acertar aliados com Fireball)*
 
-### Nível 12 — Sorcerer
+### Nível 12 — Feiticeiro
 - Magia nova: `Globe of Invulnerability` *(ou Chain Lightning, o que não escolheu)*
 
-**Build final: 11 Sorcerer / 1 Warlock**
+**Build final: 11 Feiticeiro / 1 Bruxo**
 
 ---
 
-## 📚 Tabela Completa de Magias
+## Tabela Completa de Magias
 
 | Nível Sorcerer | Magia Adicionada         | Substituição                 |
 |----------------|--------------------------|------------------------------|
@@ -130,7 +131,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ---
 
-## ⚙️ Metamagias (Resumo)
+## Metamagias (Resumo)
 
 | Metamagia         | Quando Pegar | Para que Serve |
 |-------------------|-------------|----------------|
