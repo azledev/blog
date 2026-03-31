@@ -61,7 +61,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 ### Nível 3 — Feiticeiro
 
 - Magia nova: `Raio Ardente` ⭐ *(spell principal de dano)*
-- Substituir: `Sono` → `Enhance Ability`
+- Substituir: `Sono` → `Aprimorar Habilidade`
 - **Metamagia:** `Magia Acelerada`
 
 ### Nível 4 — Feiticeiro (FEAT)
@@ -77,7 +77,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 ### Nível 6 — Feiticeiro
 
 - Magia nova: `Fireball` ⭐
-- Substituir: `Magic Missile` → `Counterspell`
+- Substituir: `Misseis mágicos` → `Counterspell`
 
 ### Nível 7 — **Bruxo (1 nível!)**
 
@@ -129,11 +129,11 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | Nível Sorcerer | Magia Adicionada         | Substituição                 |
 |----------------|--------------------------|------------------------------|
 | 1              | Escudo, Sono             | —                            |
-| 2              | Magic Missile            | —                            |
-| 3              | Raio Ardente ⭐           | Sono → Enhance Ability       |
+| 2              | Misseis mágicos            | —                            |
+| 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade  |
 | 4              | Hold Person              | —                            |
 | 5              | Haste                    | —                            |
-| 6              | Fireball ⭐               | Magic Missile → Counterspell |
+| 6              | Fireball ⭐               | Misseis mágicos → Counterspell |
 | Warlock 1      | Command ⭐                | —                            |
 | 7              | Daylight                 | —                            |
 | 8              | Dimension Door           | —                            |
