@@ -40,23 +40,23 @@ tradução aos poucos para ficar algo certinho.
 
 ### Junho
 
-| Dia   | Pergunta                                                                                                    | Resposta                   |
-| ----- |-------------------------------------------------------------------------------------------------------------|----------------------------|
-| 15/06 | Qual frase significa ‘capaz de ver as coisas como elas realmente são’?                                      | Olho atento. (#1)          |
-| 17/06 | Qual prática religiosa primitiva deu origem à magia?                                                        | Xamanismo. (#3)            |
-| 22/06 | Do que mais as pessoas chamam essa curva?                                                                   | Bruxa de Agnesi. (#3)*     |
-| 25/06 | Como se chama quando as bolhas de ar em uma banheira de hidromassagem atingem você e fazem seu corpo vibrar? | O efeito de vibração. (#2) |
-| 29/06 | Que forma de magia natural é usada para encontrar fontes de água?                                           | Radiestesia. (#1)          |
+| Dia   | Pergunta                                                                                             | Resposta               |
+| ----- |------------------------------------------------------------------------------------------------------|------------------------|
+| 15/06 | Qual frase significa ‘capaz de ver as coisas como elas realmente são’?                               | Olho atento. (#1)      |
+| 17/06 | Qual prática religiosa primitiva deu origem à magia?                                                 | Xamanismo. (#3)        |
+| 22/06 | Do que mais as pessoas chamam essa curva?                                                            | Bruxa de Agnesi. (#3)* |
+| 25/06 | Como é o nome do que acontece quando as bolhas de ar de uma hidromassagem fazem o seu corpo vibrar ? | Efeito flutter. (#2)   |
+| 29/06 | Que forma de magia natural é usada para encontrar fontes de água?                                    | Radiestesia. (#1)      |
 
 ### Julho
 
-| Dia   | Pergunta                                                                                      | Resposta                 |
-| ----- | --------------------------------------------------------------------------------------------- | ------------------------ |
-| 03/07 | …De que tipo de história ele está falando?                                                    | Sobre romance. (#3)      |
-| 08/07 | Onde está a junção de vírgula encontrada na frase a seguir?                                   | Entre ‘tempo’ e ‘é’      |
-| 09/07 | Ao mesmo tempo, surgiu um problema sério para os agricultores. Você se lembra o que foi isso? | Disparidade social. (#3) |
-| 10/07 | Durante qual período histórico os monturos foram mais comumente usados?                       | Jomon. (#1)              |
-| 11/07 | Agora, o que você acha que era esse item? É algo que todo samurai precisa!                    | A katana. (#1)           |
+| Dia   | Pergunta                                                                                      | Resposta                          |
+| ----- |-----------------------------------------------------------------------------------------------|-----------------------------------|
+| 03/07 | …Do que ele tá falando?                                                                       | Sobre romance. (#3)               |
+| 08/07 | Na seguinte frase, onde se aplica esse conceito?                                              | Antes de "Antes de começar". (#2) |
+| 09/07 | Ao mesmo tempo, surgiu um problema sério para os agricultores. Você se lembra o que foi isso? | Disparidade social. (#3)          |
+| 10/07 | Durante qual período histórico os monturos foram mais comumente usados?                       | Jomon. (#1)                       |
+| 11/07 | Agora, o que você acha que era esse item? É algo que todo samurai precisa!                    | A katana. (#1)                    |
 
 ### Exames do Semestre (17/07 - 17/07)
 
