@@ -51,7 +51,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 - Subclasse: **Linhagem Draconica (Vermelho/Fogo)**
 - Magias: `Escudo` + `Sono`
-- Cantrips sugeridos: `Amigos` (Rosto do grupo), `Ilusão Menor`
+- Truques sugeridos: `Amigos` (Rosto do grupo), `Ilusão Menor`
 
 ### Nível 2 — Feiticeiro
 
