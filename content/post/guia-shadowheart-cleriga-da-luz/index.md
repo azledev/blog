@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T04:27:46-03:00'
 draft = false
-title = 'Guia Shadowheart Cleriga Da Luz'
+title = "Guia Shadowheart Cleriga Da Lúz"
 tags = ["bg3", "baldurs gate 3", "game", "guia", "game build"]
 image = "cover.png"
 +++
@@ -12,9 +12,9 @@ image = "cover.png"
 
 ## Raça
 
-**High Half-Elf (Raça fixa da Shadowheart)**
+**High Meia-Elfa (Raça fixa da Shadowheart)**
 
-> A raça não é a ideal para um Clérigo, mas tem suas vantagens:
+> A raça não é a ideal para um Clérigo, mas tem as suas vantagens:
 > - **Visão no Escuro:** Reduz penalidades em ambientes escuros, crucial para acertar Guiding Bolt.
 > - **Ancestralidade Feérica:** Vantagem contra Charme e imunidade a Sono mágico.
 > - **Truques de Mago bônus:** Escolha um truque da lista de Mago — prefira utilidade (Mage Hand, Friends).
@@ -79,7 +79,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 3. Selecione *"Pode mudar minha classe?"* (custa 100 de ouro).
 4. Escolha **Clérigo → Domínio da Luz**.
 
-> Recomendo fazer o respec no **Nível 4** para corrigir atributos e pegar o primeiro Feat.
+> Recomendo fazer o respec no **Nível 4** para corrigir atributos e pegar o primeiro Talento.
 
 ---
 
@@ -130,11 +130,11 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 > **Hold Person** em combinação com um atacante corpo a corpo garante críticos automáticos.
 
-### Nível 4 — Clérigo (FEAT)
+### Nível 4 — Clérigo (TALENTO)
 
-- **Feat: Ability Improvement** → SABEDORIA 16 → 18
-- Cantrip novo: `Taumaturgia`
-- Magias novas: `Spiritual Weapon` + `Enhance Ability`
+- **Talento: Aprimoramento de Habilidade** → SABEDORIA 16 → 18
+- Truque novo: `Taumaturgia`
+- Magias novas: `Arma Espiritual` + `Aprimorar Habilidade`
 
 ### Nível 5 — Clérigo ⭐
 
@@ -156,10 +156,10 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 - Magias de Domínio: `Guardian of Faith` + `Wall of Fire`
 - Magia nova: `Freedom of Movement`
 
-### Nível 8 — Clérigo (FEAT)
+### Nível 8 — Clérigo (TALENTO)
 
 - **Potent Spellcasting:** Adiciona o Modificador de SABEDORIA (+5) ao dano de todos os cantrips.
-- **Feat: Ability Improvement** → SABEDORIA 18 → 20
+- **Talento: Aprimoramento de Habilidade** → SABEDORIA 18 → 20
 - Magias novas: `Banishment` + `Death Ward`
 
 > Com SABEDORIA 20, você tem o maior Spell Save DC possível. Inimigos quase nunca resistirão às suas magias.
@@ -192,9 +192,9 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
   > Permanente até o próximo Long Rest: aumenta HP máximo, imunidade a Veneno/Doença e a Frightened.
   > Empilha com Aid para +30-40 HP permanentes no grupo. Gera baú de comida de graça.
 
-### Nível 12 — Clérigo (FEAT)
+### Nível 12 — Clérigo (TALENTO)
 
-- **Feat: War Caster**
+- **Talento: War Caster**
     - Vantagem em Concentration checks ao tomar dano.
     - Reação: Shocking Grasp em inimigos que tentam fugir da sua aura de Spirit Guardians.
 - Magia nova: `Planar Ally`

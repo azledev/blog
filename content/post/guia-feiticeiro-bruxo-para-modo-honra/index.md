@@ -64,10 +64,10 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 - Substituir: `Sono` → `Aprimorar Habilidade`
 - **Metamagia:** `Magia Acelerada`
 
-### Nível 4 — Feiticeiro (FEAT)
+### Nível 4 — Feiticeiro (TALENTO)
 
-- Magia nova: `Hold Person`
-- **Feat: Dual Wielder**
+- Magia nova: `Imobilizar Pessoa`
+- **Talento: Ambidestria**
   > Sim, um caster com duas armas — é intencional. Você vai equipar dois staffs específicos.
 
 ### Nível 5 — Feiticeiro
@@ -83,8 +83,8 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 - **Build pronta!**
 - Subclasse: **Ínfero**
-- Magia de Warlock: `Command` ⭐ *(controle principal)*
-- Magia de Warlock: `Hex` *(opcional, útil em bosses)*
+- Magia de Bruxo: `Command` ⭐ *(controle principal)*
+- Magia de Bruxo: `Hex` *(opcional, útil em bosses)*
 
 > A partir daqui, **todos os níveis restantes voltam para Feiticeiro**.
 
@@ -92,12 +92,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 - Magia nova: `Dimension Door`
 
-### Nível 9 — Feiticeiro (FEAT)
+### Nível 9 — Feiticeiro (TALENTO)
 
 - Magia nova: `Hold Monster`
-- **Feat (escolha uma opção):**
+- **Talento (escolha uma opção):**
 
-| Feat                      | Quando Usar                                          |
+| Talento                   | Quando Usar                                          |
 |---------------------------|------------------------------------------------------|
 | **Elemental Adept: Fire** | Padrão — ignora Fire resistance (essencial no Ato 3) |
 | **Alerta**                | Se tiver Archer de suporte no grupo                  |
@@ -129,12 +129,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | Nível Sorcerer | Magia Adicionada         | Substituição                 |
 |----------------|--------------------------|------------------------------|
 | 1              | Escudo, Sono             | —                            |
-| 2              | Misseis mágicos            | —                            |
+| 2              | Misseis mágicos          | —                            |
 | 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade  |
-| 4              | Hold Person              | —                            |
+| 4              | Imobilizar Pessoa        | —                            |
 | 5              | Haste                    | —                            |
 | 6              | Fireball ⭐               | Misseis mágicos → Counterspell |
-| Warlock 1      | Command ⭐                | —                            |
+| Bruxo 1        | Command ⭐                | —                            |
 | 7              | Daylight                 | —                            |
 | 8              | Dimension Door           | —                            |
 | 9              | Hold Monster             | —                            |

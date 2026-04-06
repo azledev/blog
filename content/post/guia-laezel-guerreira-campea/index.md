@@ -56,7 +56,7 @@ Poderes Psíônicos Githyanki (desbloqueados por nível):
 ### Recrutamento
 
 Você encontra Lae'zel pela primeira vez no prólogo do Nautilóide. Após o naufrágio, ela fica presa
-em uma jaula a oeste das Refectory Ruins, guardada por dois Tieflings. Use um ataque à distância
+numa jaula a oeste das Refectory Ruins, guardada por dois Tieflings. Use um ataque à distância
 na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 
 ### Respec (Withers)
@@ -86,9 +86,9 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 
 - Subclasse ativa Campeão: **Acerto Crítico Aprimorado** *(crítico em 19 ou 20, dobrando a chance de crítico)*
 
-### Nível 4 — Guerreira (FEAT)
+### Nível 4 — Guerreira (TALENTO)
 
-- **Feat: Ability Improvement** → FORÇA 16 → 18
+- **Talento: Aprimorar Habilidade** → FORÇA 16 → 18
 
 ### Nível 5 — Guerreira ⭐
 
@@ -97,17 +97,17 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 
 > Combinado com o Surto de Ação: 4 ataques em um único turno.
 
-### Nível 6 — Guerreira (FEAT)
+### Nível 6 — Guerreira (TALENTO)
 
-- **Feat: Ability Improvement** → FORÇA 18 → 20
+- **Talento: Ability Improvement** → FORÇA 18 → 20
 
 ### Nível 7 — Guerreira
 
 - Passivas: `Remarkable Athlete: Jump` e `Remarkable Athlete: Proficiency`
 
-### Nível 8 — Guerreira (FEAT)
+### Nível 8 — Guerreira (TALENTO)
 
-- **Feat: Savage Attacker**
+- **Talento: Savage Attacker**
   > Rola o dado de dano duas vezes e usa o maior resultado em cada ataque corpo a corpo. Enorme aumento de DPS médio.
 
 ### Nível 9 — Guerreira
@@ -129,11 +129,11 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 
 > Com Surto de Ação: **6 ataques em um único turno**. Absurdo.
 
-### Nível 12 — Guerreira (FEAT)
+### Nível 12 — Guerreira (TALENTO)
 
-- **Feat: Great Weapon Master**
+- **Talento: Great Weapon Master**
     - `Bonus Attack`: Após um crítico ou matar um inimigo, faz mais um ataque como Ação Bônus.
-    - `+10 Damage / -5 Attack Roll`: Ative contra inimigos frágeis; desative contra alvos duros.
+    - `+10 Damage / -5 Attack Roll`: Ative contra inimigos frágeis; desative contra alvos fortes.
 
 **Build final: 12 Guerreira (Campeã)**
 
@@ -161,14 +161,14 @@ os pontos de FORÇA para outras estatísticas como DESTREZA (iniciativa), SABEDO
 | [Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)                           | [Roubar o Sacred Idol](https://bg3.wiki/wiki/Steal_the_Sacred_Idol) na [Druid Grove](https://bg3.wiki/wiki/Emerald_Grove)                |
 | [Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)                                 | Pego de [Crusher](https://bg3.wiki/wiki/Crusher) no [Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)                                     |
 | [Blooded Greataxe](https://bg3.wiki/wiki/Blooded_Greataxe)                               | [Shattered Sanctum](https://bg3.wiki/wiki/Shattered_Sanctum), Vendido por [Roah Moonglow](https://bg3.wiki/wiki/Roah_Moonglow)           |
-| [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)                       | Baú no [Defiled Temple](https://bg3.wiki/wiki/Defiled_Temple) (perto de [Polma](https://bg3.wiki/wiki/Polma))                                                       |
+| [Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)                       | Baú no [Defiled Temple](https://bg3.wiki/wiki/Defiled_Temple) (perto de [Polma](https://bg3.wiki/wiki/Polma))                            |
 
 ### Ato 2
 
-| Item                                                                                 | Onde Pegar                                                                          |
-|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)                     | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)         |
-| [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption) | Câmaras de Ketheric Thorm, [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers) |
+| Item                                                                                 | Onde Pegar                                                                                                 |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)                     | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) |
+| [Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption) | Câmaras de Ketheric Thorm, [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)                        |
 
 ### Ato 3
 
