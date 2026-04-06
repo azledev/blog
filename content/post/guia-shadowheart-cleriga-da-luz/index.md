@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T04:27:46-03:00'
 draft = false
-title = "Guia Shadowheart Cleriga Da Lúz"
+title = "Guia Shadowheart Cleriga Da Luz"
 tags = ["bg3", "baldurs gate 3", "game", "guia", "game build"]
 image = "cover.png"
 +++
