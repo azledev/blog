@@ -33,7 +33,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | CARISMA      | 17            |
 
 > **Dica:** Use o Hag's Hair (+1 CARISMA) assim que possível no Ato 1. No fim da build você deve ter 20 CARISMA (ou 22
-> com ASI).
+> com Aprimoramento de Habilidade).
 
 ---
 
@@ -97,12 +97,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 - Magia nova: `Hold Monster`
 - **Talento (escolha uma opção):**
 
-| Talento                   | Quando Usar                                          |
-|---------------------------|------------------------------------------------------|
-| **Elemental Adept: Fire** | Padrão — ignora Fire resistance (essencial no Ato 3) |
-| **Alerta**                | Se tiver Archer de suporte no grupo                  |
-| **War Caster**            | Se não for Halfling e não tiver Armour of Landfall   |
-| **ASI +CHA +CHA**         | Se não precisar de nenhum dos acima                  |
+| Talento                                   | Quando Usar                                          |
+|-------------------------------------------|------------------------------------------------------|
+| **Elemental Adept: Fire**                 | Padrão — ignora Fire resistance (essencial no Ato 3) |
+| **Alerta**                                | Se tiver Archer de suporte no grupo                  |
+| **War Caster**                            | Se não for Halfling e não tiver Armour of Landfall   |
+| **Aprimoramento de Habilidade +CHA +CHA** | Se não precisar de nenhum dos acima                  |
 
 > 💡 **Se você tiver um Archer de suporte** que possa aplicar Arsonist's Oil, **não precisa de Elemental Adept** — o óleo
 > cobre isso.
@@ -126,21 +126,21 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ## Tabela Completa de Magias
 
-| Nível Sorcerer | Magia Adicionada         | Substituição                 |
-|----------------|--------------------------|------------------------------|
-| 1              | Escudo, Sono             | —                            |
-| 2              | Misseis mágicos          | —                            |
-| 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade  |
-| 4              | Imobilizar Pessoa        | —                            |
-| 5              | Haste                    | —                            |
+| Nível Sorcerer | Magia Adicionada         | Substituição                   |
+|----------------|--------------------------|--------------------------------|
+| 1              | Escudo, Sono             | —                              |
+| 2              | Misseis mágicos          | —                              |
+| 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade    |
+| 4              | Imobilizar Pessoa        | —                              |
+| 5              | Haste                    | —                              |
 | 6              | Fireball ⭐               | Misseis mágicos → Counterspell |
-| Bruxo 1        | Command ⭐                | —                            |
-| 7              | Daylight                 | —                            |
-| 8              | Dimension Door           | —                            |
-| 9              | Hold Monster             | —                            |
-| 10             | Telekinesis              | —                            |
-| 11             | Chain Lightning          | —                            |
-| 12             | Globe of Invulnerability | —                            |
+| Bruxo 1        | Command ⭐                | —                              |
+| 7              | Daylight                 | —                              |
+| 8              | Dimension Door           | —                              |
+| 9              | Hold Monster             | —                              |
+| 10             | Telekinesis              | —                              |
+| 11             | Chain Lightning          | —                              |
+| 12             | Globe of Invulnerability | —                              |
 
 > ⭐ = Magias essenciais para a build funcionar
 
