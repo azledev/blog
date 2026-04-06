@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T04:27:27-03:00'
 draft = false
-title = "Guia Lae'zel Lutadora Campeã"
+title = "Guia Lae'zel Guerreira Campeã"
 tags = ["bg3", "baldurs gate 3", "game", "guia", "game build"]
 image = "cover.jpg"
 +++
@@ -47,7 +47,7 @@ Poderes Psíônicos Githyanki (desbloqueados por nível):
 
 - **Classe:** Guerreira
 - **Subclasse:** Campeã
-- **Estilo de Combate:** Great Weapon Fighting (rerrola dados de dano 1 ou 2, uma vez por ataque)
+- **Estilo de Combate:** Combate com Armas Grandes (se rolar 1 ou 2 de dano, é jogado o dado de novo)
 
 ---
 
@@ -73,18 +73,18 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 ### Nível 1 — Guerreira
 
 - Subclasse: **Campeã**
-- Estilo de Combate: **Great Weapon Fighting**
-- Habilidades de Classe: `Second Wind` *(cura como Ação Bônus)*
+- Estilo de Combate: **Combate com Armas Grandes**
+- Habilidades de Classe: `Fôlego Extra` *(cura como Ação Bônus)*
 
 ### Nível 2 — Guerreira
 
-- Nova Habilidade: **Action Surge** *(ação extra no turno, recarrega em Short Rest)*
+- Nova Habilidade: **Surto de Ação** *(ação extra no turno, recarrega em Short Rest)*
 
-> O Action Surge é devastador nesse nível — poucos inimigos possuem uma segunda ação.
+> O Surto de Ação é devastador nesse nível — poucos inimigos possuem uma segunda ação.
 
 ### Nível 3 — Guerreira
 
-- Subclasse ativa: **Improved Critical Hit** *(crítico em 19 ou 20, dobrando a chance de crítico)*
+- Subclasse ativa Campeão: **Acerto Crítico Aprimorado** *(crítico em 19 ou 20, dobrando a chance de crítico)*
 
 ### Nível 4 — Guerreira (FEAT)
 
@@ -95,7 +95,7 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 - **Build começa a ficar forte aqui!**
 - Nova Habilidade: **Extra Attack** *(cada Ação concede 2 ataques em vez de 1)*
 
-> Combinado com o Action Surge: 4 ataques em um único turno.
+> Combinado com o Surto de Ação: 4 ataques em um único turno.
 
 ### Nível 6 — Guerreira (FEAT)
 
@@ -127,7 +127,7 @@ na parte inferior da jaula para libertá-la. Converse com ela para recrutá-la.
 
 - **Improved Extra Attack:** cada Ação agora concede **3 ataques**.
 
-> Com Action Surge: **6 ataques em um único turno**. Absurdo.
+> Com Surto de Ação: **6 ataques em um único turno**. Absurdo.
 
 ### Nível 12 — Guerreira (FEAT)
 
