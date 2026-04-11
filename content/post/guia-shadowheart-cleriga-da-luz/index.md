@@ -238,7 +238,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | **[The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander)** ⭐⭐ | [Rosymorn Monastery](https://bg3.wiki/wiki/Rosymorn_Monastery) — puzzle das estátuas                        |
 | [Wapira's Crown](https://bg3.wiki/wiki/Wapira%27s_Crown)                      | Recompensa de Zevlor (quest [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees))                   |
 | [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)        | [Volo](https://bg3.wiki/wiki/Volo) ou [Grat the Trader](https://bg3.wiki/wiki/Grat)                         |
-| [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)          | Omeluum, Myconid Colony                                                                                     |
+| [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)          | [Omeluum](https://bg3.wiki/wiki/Omeluum), [Myconid Colony](https://bg3.wiki/wiki/Ebonlake_Grotto)           |
 | **[Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)** ⭐                | Baú no [Selunite Outpost](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost) (Underdark)                          |
 | [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)              | [A'jak'nir Jeera](https://bg3.wiki/wiki/Jeera), [Crèche Y'llek](https://bg3.wiki/wiki/Cr%C3%A8che_Y%27llek) |
 
@@ -247,37 +247,37 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | Item                                                             | Onde Pegar                                                                                                 |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [Shield of Devotion](https://bg3.wiki/wiki/Shield_of_Devotion)   | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) |
-| [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves)         | Potter's Chest no [Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield)                           |
+| **[Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves)** ⭐   | Potter's Chest no [Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield)                           |
 | [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection) | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) |
 | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)       | Baú escondido no porão do [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)                           |
-| [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)     | Gauntlet of Shar (vault room)                                                                              |
+| [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)     | [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar) (vault room)                                    |
 
 ### Ato 3
 
-| Item                                                                             | Onde Pegar                                                 |
-|----------------------------------------------------------------------------------|------------------------------------------------------------|
-| **[Hood of the Weave](Hood of the Weave)** ⭐⭐                                    | Mystic Carrion, Philgrave's Mansion (+2 Spell Save DC)     |
-| **[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)** ⭐             | Helsik, Devil's Fee (+1 Spell Save DC)                     |
-| **[Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)** ⭐         | Baú de oferendas, Stormshore Tabernacle (+2 Spell Save DC) |
-| [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) | Viconia DeVir, Cloister of Sombre Embrace                  |
-| [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           | Baú dourado trancado, Wyrm's Rock Fortress                 |
+| Item                                                                             | Onde Pegar                                                                                                                                    |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)** ⭐⭐              | [Mystic Carrion](https://bg3.wiki/wiki/Mystic_Carrion), [Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) (+2 Spell Save DC) |
+| **[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)** ⭐             | Helsik, Devil's Fee (+1 Spell Save DC)                                                                                                        |
+| **[Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)** ⭐         | Baú de oferendas, Stormshore Tabernacle (+2 Spell Save DC)                                                                                    |
+| [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) | Viconia DeVir, Cloister of Sombre Embrace                                                                                                     |
+| [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           | Baú dourado trancado, Wyrm's Rock Fortress                                                                                                    |
 
 ---
 
 ## Equipamentos Final de Build
 
-| Slot     | Item (Early Game)         | Item (Late Game)                                                                 |
-|----------|---------------------------|----------------------------------------------------------------------------------|
-| Elmo     | —                         | [Hood of the Weave](Hood of the Weave)                                           |
-| Armadura | Luminous Armour ⭐         | [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) ⭐                       |
-| Capa     | Cloak of Protection       | [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)                   |
-| Luvas    | Luminous Gloves ⭐         | [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves) ⭐                       |
-| Botas    | Vital Conduit Boots       | [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           |
-| Amuleto  | Pearl of Power Amulet     | [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)               |
-| Anel 1   | Coruscation Ring          | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)                       |
-| Anel 2   | The Whispering Promise    | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                     |
-| Arma     | The Blood of Lathander ⭐⭐ | [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) ⭐⭐        |
-| Escudo   | Shield of Devotion        | [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) |
+| Slot     | Item (Early Game)                                                         | Item (Late Game)                                                                 |
+|----------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Elmo     | —                                                                         | [Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)                     |
+| Armadura | [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) ⭐                | [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) ⭐                       |
+| Capa     | [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)          | [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)                   |
+| Luvas    | [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves) ⭐                | [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves) ⭐                       |
+| Botas    | [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)          | [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           |
+| Amuleto  | [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)      | [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)               |
+| Anel 1   | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)                | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)                       |
+| Anel 2   | [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)    | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                     |
+| Arma     | [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) ⭐⭐ | [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) ⭐⭐        |
+| Escudo   | [Shield of Devotion](https://bg3.wiki/wiki/Shield_of_Devotion)            | [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) |
 
 > 💡 **Meta de Spell Save DC no Ato 3:** Combine Hood of the Weave, Cloak of the Weave e Amulet of the Devout
 > para atingir **DC 22+** — inimigos quase nunca conseguirão resistir às suas magias.
@@ -289,8 +289,8 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 **Early Game (Atos 1-2):**
 
 1. Caso haja vários inimigos agrupados: use `Brilho da Alvorada` para dano em área + stacks de Radiating Orb.
-2. Em inimigos únicos: `Guiding Bolt` para dano + Vantagem ao próximo aliado.
-3. Suporte: `Bless` em 3 aliados antes de encontros difíceis.
+2. Em inimigos únicos: `Raio Traçante` para dano + Vantagem ao próximo aliado.
+3. Suporte: `Benção` em 3 aliados antes de encontros difíceis.
 
 **Mid Game (Ato 2):**
 
