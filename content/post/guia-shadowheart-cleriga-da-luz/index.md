@@ -8,7 +8,7 @@ image = "cover.png"
 
 **Build:** 12 Clérigo (Subclasse: Domínio da Luz)
 
-**Momento que fica forte:** Nível 5 (Fireball + Spirit Guardians) / Nível 9 (Insect Plague)
+**Momento que fica forte:** Nível 5 (Bola de Fogo + Guardiões Espirituais) / Nível 9 (Insect Plague)
 
 ## Raça
 
@@ -50,12 +50,12 @@ image = "cover.png"
 
 ### Por que Domínio da Luz?
 
-| Vantagem                       | Detalhe                                                            |
-|--------------------------------|--------------------------------------------------------------------|
-| **Warding Flare**              | Reação para impor Desvantagem a um inimigo atacante                |
-| **Brilho da Alvorada**         | Radiant Damage em área — uma das melhores ações de Clérigo do jogo |
-| **Fireball e Flame Strike**    | Magias de alto impacto com relevância até o fim do jogo            |
-| **Sinergia com Radiating Orb** | Radiant Damage constante ativa equipamentos de debuff              |
+| Vantagem                        | Detalhe                                                            |
+|---------------------------------|--------------------------------------------------------------------|
+| **Warding Flare**               | Reação para impor Desvantagem a um inimigo atacante                |
+| **Brilho da Alvorada**          | Radiant Damage em área — uma das melhores ações de Clérigo do jogo |
+| **Bola de Fogo e Flame Strike** | Magias de alto impacto com relevância até o fim do jogo            |
+| **Sinergia com Radiating Orb**  | Radiant Damage constante ativa equipamentos de debuff              |
 
 ---
 
@@ -128,7 +128,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 - Magias de Domínio: `Esfera Flamejante` + `Raio Ardente`
 - Magias novas: `Auxilio` + `Imobilizar Pessoa`
 
-> **Hold Person** em combinação com um atacante corpo a corpo garante críticos automáticos.
+> **Imobilizar Pessoa** em combinação com um atacante corpo a corpo garante críticos automáticos.
 
 ### Nível 4 — Clérigo (TALENTO)
 
@@ -140,10 +140,10 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 - **Build começa a ficar forte aqui!**
 - Channel Divinity aprimorado para `Destroy Undead`
-- Magias de Domínio: `Daylight` + **`Fireball`** ⭐
-- Magias novas: `Glyph of Warding` + `Spirit Guardians` + `Revivify`
+- Magias de Domínio: `Luz` + **`Bola de Fogo`** ⭐
+- Magias novas: `Glifo de Proteção` + `Guardiões Espirituais` + `Revivificar`
 
-> **Spirit Guardians** causa Radiant Damage em área ao redor de Shadowheart — correndo pelo meio dos inimigos,
+> **Guardiões Espirituais** causa Radiant Damage em área ao redor de Shadowheart — correndo pelo meio dos inimigos,
 > ela aplica stacks massivos de Radiating Orb.
 
 ### Nível 6 — Clérigo
@@ -196,7 +196,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 - **Talento: War Caster**
     - Vantagem em Concentration checks ao tomar dano.
-    - Reação: Shocking Grasp em inimigos que tentam fugir da sua aura de Spirit Guardians.
+    - Reação: Shocking Grasp em inimigos que tentam fugir da sua aura de Guardiões Espirituais.
 - Magia nova: `Planar Ally`
 
 **Build final: 12 Clérigo (Domínio da Luz)**
@@ -205,25 +205,25 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 ## Tabela Completa de Magias
 
-| Nível | Magia Adicionada                     | Nota                  |
-|-------|--------------------------------------|-----------------------|
-| 1     | Guiding Bolt, Healing Word           | —                     |
-| 1     | Bless, Inflict Wounds                | —                     |
-| 1     | Burning Hands, Faerie Fire           | Domínio (automáticas) |
-| 2     | Criar ou Destruir Água               | —                     |
-| 3     | Esfera Flamejante, Raio Ardente      | Domínio               |
-| 3     | Aid, Hold Person                     | —                     |
-| 4     | Spiritual Weapon, Enhance Ability    | —                     |
-| 5     | Daylight, Fireball ⭐                 | Domínio               |
-| 5     | Spirit Guardians ⭐, Glyph of Warding | —                     |
-| 7     | Guardian of Faith, Wall of Fire      | Domínio               |
-| 7     | Freedom of Movement                  | —                     |
-| 8     | Banishment, Death Ward               | —                     |
-| 9     | Destructive Wave, Flame Strike ⭐     | Domínio               |
-| 9     | Insect Plague ⭐, Mass Cure Wounds    | —                     |
-| 10    | Greater Restoration                  | —                     |
-| 11    | Heroes' Feast ⭐                      | —                     |
-| 12    | Planar Ally                          | —                     |
+| Nível | Magia Adicionada                           | Nota                  |
+|-------|--------------------------------------------|-----------------------|
+| 1     | Guiding Bolt, Healing Word                 | —                     |
+| 1     | Bless, Inflict Wounds                      | —                     |
+| 1     | Burning Hands, Faerie Fire                 | Domínio (automáticas) |
+| 2     | Criar ou Destruir Água                     | —                     |
+| 3     | Esfera Flamejante, Raio Ardente            | Domínio               |
+| 3     | Aid, Imobilizar Pessoa                     | —                     |
+| 4     | Spiritual Weapon, Enhance Ability          | —                     |
+| 5     | Luz, Bola de Fogo ⭐                        | Domínio               |
+| 5     | Guardiões Espirituais ⭐, Glifo de Proteção | —                     |
+| 7     | Guardian of Faith, Wall of Fire            | Domínio               |
+| 7     | Freedom of Movement                        | —                     |
+| 8     | Banishment, Death Ward                     | —                     |
+| 9     | Destructive Wave, Flame Strike ⭐           | Domínio               |
+| 9     | Insect Plague ⭐, Mass Cure Wounds          | —                     |
+| 10    | Greater Restoration                        | —                     |
+| 11    | Heroes' Feast ⭐                            | —                     |
+| 12    | Planar Ally                                | —                     |
 
 > ⭐ = Magias essenciais para a build funcionar
 
@@ -237,9 +237,9 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **[The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander)** ⭐⭐ | [Rosymorn Monastery](https://bg3.wiki/wiki/Rosymorn_Monastery) — puzzle das estátuas                        |
 | [Wapira's Crown](https://bg3.wiki/wiki/Wapira%27s_Crown)                      | Recompensa de Zevlor (quest [Save the Refugees](https://bg3.wiki/wiki/Save_the_Refugees))                   |
-| [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)        | [Volo](https://bg3.wiki/wiki/Volo) ou [Grat the Trader](https://bg3.wiki/wiki/Grat)                         |
-| [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)          | [Omeluum](https://bg3.wiki/wiki/Omeluum), [Myconid Colony](https://bg3.wiki/wiki/Ebonlake_Grotto)           |
-| **[Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour)** ⭐                | Baú no [Selunite Outpost](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost) (Underdark)                          |
+| [A Promessa Sussurante](https://bg3.wiki/wiki/The_Whispering_Promise)         | [Volo](https://bg3.wiki/wiki/Volo) ou [Grat the Trader](https://bg3.wiki/wiki/Grat)                         |
+| [Amuleto da Pérola do Poder](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)     | [Omeluum](https://bg3.wiki/wiki/Omeluum), [Myconid Colony](https://bg3.wiki/wiki/Ebonlake_Grotto)           |
+| **[Armadura Luminosa](https://bg3.wiki/wiki/Luminous_Armour)** ⭐              | Baú no [Selunite Outpost](https://bg3.wiki/wiki/Sel%C3%BBnite_Outpost) (Underdark)                          |
 | [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)              | [A'jak'nir Jeera](https://bg3.wiki/wiki/Jeera), [Crèche Y'llek](https://bg3.wiki/wiki/Cr%C3%A8che_Y%27llek) |
 
 ### Ato 2
@@ -269,13 +269,13 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | Slot     | Item (Early Game)                                                         | Item (Late Game)                                                                 |
 |----------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Elmo     | —                                                                         | [Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)                     |
-| Armadura | [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) ⭐                | [Luminous Armour](https://bg3.wiki/wiki/Luminous_Armour) ⭐                       |
+| Armadura | [Armadura Luminosa](https://bg3.wiki/wiki/Luminous_Armour) ⭐              | [Armadura Luminosa](https://bg3.wiki/wiki/Luminous_Armour) ⭐                     |
 | Capa     | [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)          | [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)                   |
 | Luvas    | [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves) ⭐                | [Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves) ⭐                       |
 | Botas    | [Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)          | [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           |
-| Amuleto  | [Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)      | [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)               |
+| Amuleto  | [Amuleto da Pérola do Poder](https://bg3.wiki/wiki/Pearl_of_Power_Amulet) | [Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)               |
 | Anel 1   | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)                | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)                       |
-| Anel 2   | [The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)    | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                     |
+| Anel 2   | [A Promessa Sussurante](https://bg3.wiki/wiki/The_Whispering_Promise)     | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                     |
 | Arma     | [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) ⭐⭐ | [The Blood of Lathander](https://bg3.wiki/wiki/The_Blood_of_Lathander) ⭐⭐        |
 | Escudo   | [Shield of Devotion](https://bg3.wiki/wiki/Shield_of_Devotion)            | [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) |
 
@@ -294,9 +294,9 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 **Mid Game (Ato 2):**
 
-1. Use `Spirit Guardians` e posicione Shadowheart no meio dos inimigos.
+1. Use `Guardiões Espirituais` e posicione Shadowheart no meio dos inimigos.
 2. Radiating Orb se acumula a cada pulso — em poucos turnos, os inimigos não acertam mais nada.
-3. `Fireball` em grupos de inimigos frágeis.
+3. `Bola de Fogo` em grupos de inimigos frágeis.
 
 **Late Game (Ato 3):**
 
@@ -332,7 +332,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 - **Potion of Heroism** — bônus temporário em Saving Throws
 - **Elixir of Vitaliy** — aumenta HP máximo em situações críticas
-- Carregue **Revivify Scrolls** nos Atos 1-2 antes de ter a magia no livro
+- Carregue **Pergaminho de Revificação** nos Atos 1-2 antes de ter a magia no livro
 
 ---
 

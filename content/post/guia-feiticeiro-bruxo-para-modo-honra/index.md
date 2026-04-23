@@ -15,7 +15,7 @@ image = "cover.jpg"
 **Halfling (Pé ligeiro ou Robusto)**
 
 > A raça mais recomendada para essa build. Você vai rolar mais dados que o resto do grupo somado. O **Sorte de Halfling
-** evita que você tire 1 natural nos saves de CON (que mantêm concentração), o que é crucial para o Haste.
+** evita que você tire 1 natural nos saves de CON (que mantêm concentração), o que é crucial para o Celeridade.
 
 Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
@@ -72,12 +72,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Nível 5 — Feiticeiro
 
-- Magia nova: `Haste`
+- Magia nova: `Celeridade`
 
 ### Nível 6 — Feiticeiro
 
 - Magia nova: `Fireball` ⭐
-- Substituir: `Misseis mágicos` → `Counterspell`
+- Substituir: `Misseis mágicos` → `Contramagia`
 
 ### Nível 7 — **Bruxo (1 nível!)**
 
@@ -126,21 +126,21 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ## Tabela Completa de Magias
 
-| Nível Sorcerer | Magia Adicionada         | Substituição                   |
-|----------------|--------------------------|--------------------------------|
-| 1              | Escudo, Sono             | —                              |
-| 2              | Misseis mágicos          | —                              |
-| 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade    |
-| 4              | Imobilizar Pessoa        | —                              |
-| 5              | Haste                    | —                              |
-| 6              | Fireball ⭐               | Misseis mágicos → Counterspell |
-| Bruxo 1        | Command ⭐                | —                              |
-| 7              | Daylight                 | —                              |
-| 8              | Dimension Door           | —                              |
-| 9              | Hold Monster             | —                              |
-| 10             | Telekinesis              | —                              |
-| 11             | Chain Lightning          | —                              |
-| 12             | Globe of Invulnerability | —                              |
+| Nível Sorcerer | Magia Adicionada         | Substituição                  |
+|----------------|--------------------------|-------------------------------|
+| 1              | Escudo, Sono             | —                             |
+| 2              | Misseis mágicos          | —                             |
+| 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade   |
+| 4              | Imobilizar Pessoa        | —                             |
+| 5              | Celeridade               | —                             |
+| 6              | Fireball ⭐               | Misseis mágicos → Contramagia |
+| Bruxo 1        | Command ⭐                | —                             |
+| 7              | Daylight                 | —                             |
+| 8              | Dimension Door           | —                             |
+| 9              | Hold Monster             | —                             |
+| 10             | Telekinesis              | —                             |
+| 11             | Chain Lightning          | —                             |
+| 12             | Globe of Invulnerability | —                             |
 
 > ⭐ = Magias essenciais para a build funcionar
 
@@ -150,7 +150,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 | Metamagia         | Quando Pegar | Para que Serve                                                        |
 |-------------------|--------------|-----------------------------------------------------------------------|
-| Magia Duplicada   | Nível 2      | Usar Haste em você + outro aliado ao mesmo tempo                      |
+| Magia Duplicada   | Nível 2      | Usar Celeridade em você + outro aliado ao mesmo tempo                 |
 | Magia Persistente | Nível 2      | Dobra a duração do Command — controla inimigos por 2 turnos           |
 | Magia Acelerada   | Nível 3      | Lança spell como bonus action — libera action principal para controle |
 | Careful Spell     | Nível 11     | Aliados não são afetados pelo seu Fireball                            |
@@ -159,7 +159,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ## Loop de Combate Básico
 
-1. **Se não tiver Haste de suporte:** use `Twinned Haste` em você + outro damage dealer.
+1. **Se não tiver Celeridade de suporte:** use `Twinned Celeridade` em você + outro damage dealer.
 2. **Ative `Daylight`** em um aliado próximo (para o Callous Glow Ring funcionar no Ato 2+).
 3. **Desative as Spellmight Gloves** (se tiver) antes do primeiro cast.
 4. Lance **`Raio Ardente` Quickened** num inimigo com muita vida (gera stacks de Arcane Acuity).
@@ -174,12 +174,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Ato 1
 
-| Item                                                                     | Onde Pegar                                                 |
-|--------------------------------------------------------------------------|------------------------------------------------------------|
-| [Bracers of Defense](https://bg3.wiki/wiki/Bracers_of_Defence)           | [Blighted Village](https://bg3.wiki/wiki/Blighted_Village) |
-| [The Spellsparkler](https://bg3.wiki/wiki/The_Spellsparkler)             | [Risen Road](https://bg3.wiki/wiki/The_Risen_Road)         |
-| [Melf's First Staff](https://bg3.wiki/wiki/Melf%27s_First_Staff)         | [Underdark](https://bg3.wiki/wiki/Underdark)               |
-| [Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) | [Omeluum (Underdark)](https://bg3.wiki/wiki/Omeluum)       |
+| Item                                                                            | Onde Pegar                                                 |
+|---------------------------------------------------------------------------------|------------------------------------------------------------|
+| [Braçadeiras de Defesa](https://bg3.wiki/wiki/Bracers_of_Defence)               | [Blighted Village](https://bg3.wiki/wiki/Blighted_Village) |
+| [Magifaísca](https://bg3.wiki/wiki/The_Spellsparkler)                           | [Risen Road](https://bg3.wiki/wiki/The_Risen_Road)         |
+| [Cajado Inicial de Melf](https://bg3.wiki/wiki/Melf%27s_First_Staff)            | [Underdark](https://bg3.wiki/wiki/Underdark)               |
+| [Botas de Tempestade Estrondosa](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) | [Omeluum (Underdark)](https://bg3.wiki/wiki/Omeluum)       |
 
 > ⚠️ **NÃO mate o Strange Ox na Druid Grove.** Você vai precisar dele no Ato 2.
 
