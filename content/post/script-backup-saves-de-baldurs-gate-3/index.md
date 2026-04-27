@@ -5,10 +5,24 @@ title = 'Script Backup Saves De Baldurs Gate 3'
 tags = ["bg3", "baldurs gate 3", "script", "bash"]
 +++
 
+Estava precisando fazer backup dos meus saves do baldurs gate 3 porque uns amigos meus querem jogar o modo honra sem se preocupar com a questão de perder o save para sempre :/, então vamos lá.
+
 O caminho para o save do baldur's gate 3 nativo no linux é:
 
 ```
 ~/.local/share/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public
+```
+
+O caminho para quem estiver jogando no proton é:
+
+```
+/games/SteamLibrary/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public
+```
+
+No meu caso, eu tenho uma partição "**/games**" onde eu instalo os meus jogos, mas se estivesse instalado no **home**, o caminho deve ser algo como:
+
+```
+~/.steam/steam/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3/PlayerProfiles/Public
 ```
 
 Segue o script simples para criar um .tar.gz dos arquivos do save, aproveitei e fiz um restore. É possível rodar sem especificar o destino do backup, pasta default é ~/Documents/
