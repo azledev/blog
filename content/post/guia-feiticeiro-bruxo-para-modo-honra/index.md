@@ -185,12 +185,12 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Ato 2
 
-| Item                                                                  | Onde Pegar                                                                            |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| [**Hat of Fire Acuity**](https://bg3.wiki/wiki/Hat_of_Fire_Acuity) ⭐⭐ | Mate o Strange Ox nos estábulos de [Last Light](https://bg3.wiki/wiki/Last_Light_Inn) |
-| Ring of Mental Inhibition                                             | Ruined Battlefield (baú)                                                              |
-| Spineshudder Amulet                                                   | Moonrise Towers                                                                       |
-| Callous Glow Ring                                                     | Gauntlet of Shar (perto de Balthazar)                                                 |
+| Item                                                                         | Onde Pegar                                                                            |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| [**Hat of Fire Acuity**](https://bg3.wiki/wiki/Hat_of_Fire_Acuity) ⭐⭐        | Mate o Strange Ox nos estábulos de [Last Light](https://bg3.wiki/wiki/Last_Light_Inn) |
+| [Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring_of_Mental_Inhibition) | [Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield) (baú)                  |
+| [Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder_Amulet)             | [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)                              |
+| [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                 | [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar) (vault room)               |
 
 ### Ato 3
 

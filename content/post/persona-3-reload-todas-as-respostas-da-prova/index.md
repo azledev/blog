@@ -8,8 +8,10 @@ comments = true
 +++
 
 Eu gosto muito da saga persona e jogo de novo os seus jogos varias vezes durante o ano (pelo menos 3 vezes), e por isso
-vou deixar salvo no blog um guia de todas as respostas das provas em pt-br, inicialmente vou copiar de um guia da steam que eu sei que a tradução das
-respostas está errada e que a partir de dezembro só tem a opção que tem que responder e nada de tradução da resposta, mas a resposta está correta e
+vou deixar salvo no blog um guia de todas as respostas das provas em pt-br, inicialmente vou copiar de um guia da steam
+que eu sei que a tradução das
+respostas está errada e que a partir de dezembro só tem a opção que tem que responder e nada de tradução da resposta,
+mas a resposta está correta e
 comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo certinho.
 
 ### Abril
@@ -68,13 +70,13 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 ### Setembro
 
-| Dia   | Pergunta                                                                | Resposta                | Alternativa |
-|-------|-------------------------------------------------------------------------|-------------------------|-------------|
-| 01/09 | Qual propriedade da eletricidade é relevante para a supercondutividade? | Resistência             | #2          |
-| 10/09 | “E-Ei, Makoto Yuki, você sabe o que significa “derramar o feijão”?      | Para revelar um segredo | #3          |
-| 11/09 | Qual livro ajudou a promover a arte da magia durante a Renascença?      | A Hermética             | #3          |
-| 14/09 | A quem alguém se refere quando fala de sua “cara-metade”?               | Sua alma gêmea          | #1          |
-| 26/09 | Qual é o nome coletivo dos quatro números sagrados na numerologia?      | Tetractys               | #3          |
+| Dia   | Pergunta                                                                                         | Resposta           | Alternativa |
+|-------|--------------------------------------------------------------------------------------------------|--------------------|-------------|
+| 01/09 | Qual propriedade da eletricidade importa para a supercondutividade?                              | Resistência        | #2          |
+| 10/09 | “Ei, Makoto Yuki, você sabe o que significa “To spill the beans”, ou “deixar os feijões cairem”? | Revelar um segredo | #3          |
+| 11/09 | Qual livro ajudou a desenvolver a arte da magia no Renascimento?                                 | A Hermetica        | #3          |
+| 14/09 | A quem estamos nos referindo ao falar de “cara-metade”?                                          | Uma alma gêmea     | #1          |
+| 26/09 | Qual é o nome coletivo dos quatro números sagrados na numerologia?                               | Tetractys          | #3          |
 
 ### Outubro Parte 1
 
