@@ -76,15 +76,15 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Nível 6 — Feiticeiro
 
-- Magia nova: `Fireball` ⭐
+- Magia nova: `Bola de Fogo` ⭐
 - Substituir: `Misseis mágicos` → `Contramagia`
 
 ### Nível 7 — **Bruxo (1 nível!)**
 
 - **Build pronta!**
 - Subclasse: **Ínfero**
-- Magia de Bruxo: `Command` ⭐ *(controle principal)*
-- Magia de Bruxo: `Hex` *(opcional, útil em bosses)*
+- Magia de Bruxo: `Comando` ⭐ *(controle principal)*
+- Magia de Bruxo: `Danação` *(opcional, útil em bosses)*
 
 > A partir daqui, **todos os níveis restantes voltam para Feiticeiro**.
 
@@ -114,7 +114,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 ### Nível 11 — Feiticeiro
 
 - Magia nova: `Chain Lightning`
-- **Última Metamagia:** `Careful Spell` *(evita acertar aliados com Fireball)*
+- **Última Metamagia:** `Careful Spell` *(evita acertar aliados com Bola de Fogo)*
 
 ### Nível 12 — Feiticeiro
 
@@ -133,8 +133,8 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | 3              | Raio Ardente ⭐           | Sono → Aprimorar Habilidade   |
 | 4              | Imobilizar Pessoa        | —                             |
 | 5              | Celeridade               | —                             |
-| 6              | Fireball ⭐               | Misseis mágicos → Contramagia |
-| Bruxo 1        | Command ⭐                | —                             |
+| 6              | Bola de Fogo ⭐           | Misseis mágicos → Contramagia |
+| Bruxo 1        | Comando ⭐                | —                             |
 | 7              | Daylight                 | —                             |
 | 8              | Dimension Door           | —                             |
 | 9              | Hold Monster             | —                             |
@@ -151,22 +151,22 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | Metamagia         | Quando Pegar | Para que Serve                                                        |
 |-------------------|--------------|-----------------------------------------------------------------------|
 | Magia Duplicada   | Nível 2      | Usar Celeridade em você + outro aliado ao mesmo tempo                 |
-| Magia Persistente | Nível 2      | Dobra a duração do Command — controla inimigos por 2 turnos           |
+| Magia Persistente | Nível 2      | Dobra a duração do Comando — controla inimigos por 2 turnos           |
 | Magia Acelerada   | Nível 3      | Lança spell como bonus action — libera action principal para controle |
-| Careful Spell     | Nível 11     | Aliados não são afetados pelo seu Fireball                            |
+| Careful Spell     | Nível 11     | Aliados não são afetados pelo seu Bola de Fogo                        |
 
 ---
 
 ## Loop de Combate Básico
 
 1. **Se não tiver Celeridade de suporte:** use `Twinned Celeridade` em você + outro damage dealer.
-2. **Ative `Daylight`** em um aliado próximo (para o Callous Glow Ring funcionar no Ato 2+).
+2. **Ative `Daylight`** num aliado próximo (para o Callous Glow Ring funcionar no Ato 2+).
 3. **Desative as Spellmight Gloves** (se tiver) antes do primeiro cast.
 4. Lance **`Raio Ardente` Quickened** num inimigo com muita vida (gera stacks de Arcane Acuity).
 5. **Reative as luvas.**
 6. A partir daí, escolha:
-    - **Dano:** continue spammando Raio Ardente / Fireball.
-    - **Controle:** spam de `Extended Command` em todos os inimigos. Você pode desabilitar 10-20 inimigos de uma vez.
+    - **Dano:** continue spammando Raio Ardente / Bola de Fogo.
+    - **Controle:** spam de `Extended Comando` em todos os inimigos. Você pode desabilitar 10-20 inimigos de uma vez.
 
 ---
 

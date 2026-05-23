@@ -117,7 +117,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 ### Nível 2 — Clérigo
 
-- Channel Divinity Actions desbloqueadas:
+- Canalizar Divindade Actions desbloqueadas:
     - `Expulsar Mortos-Vivos` — Faz mortos-vivos fugirem até tomarem dano.
     - `Brilho da Alvorada` ⭐ — Radiant Damage em área (2d10 + Nível) em todos os inimigos hostis.
 - Magia nova: `Criar ou Destruir Água`
@@ -139,7 +139,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 ### Nível 5 — Clérigo ⭐
 
 - **Build começa a ficar forte aqui!**
-- Channel Divinity aprimorado para `Destroy Undead`
+- Canalizar Divindade aprimorado para `Destruir Mortos-Vivos`
 - Magias de Domínio: `Luz` + **`Bola de Fogo`** ⭐
 - Magias novas: `Glifo de Proteção` + `Guardiões Espirituais` + `Revivificar`
 
@@ -148,13 +148,13 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 ### Nível 6 — Clérigo
 
-- +1 uso de Channel Divinity (agora 2 por Rest)
+- +1 uso de Canalizar Divindade (agora 2 por Rest)
 - Magia nova: a que não escolheu no Nível 5
 
 ### Nível 7 — Clérigo
 
-- Magias de Domínio: `Guardian of Faith` + `Wall of Fire`
-- Magia nova: `Freedom of Movement`
+- Magias de Domínio: `Guadião da Fé` + `Muralha de fogo`
+- Magia nova: `Libertação`
 
 ### Nível 8 — Clérigo (TALENTO)
 
@@ -216,8 +216,8 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | 4     | Spiritual Weapon, Enhance Ability          | —                     |
 | 5     | Luz, Bola de Fogo ⭐                        | Domínio               |
 | 5     | Guardiões Espirituais ⭐, Glifo de Proteção | —                     |
-| 7     | Guardian of Faith, Wall of Fire            | Domínio               |
-| 7     | Freedom of Movement                        | —                     |
+| 7     | Guadião da Fé, Muralha de fogo             | Domínio               |
+| 7     | Libertação                                 | —                     |
 | 8     | Banishment, Death Ward                     | —                     |
 | 9     | Destructive Wave, Flame Strike ⭐           | Domínio               |
 | 9     | Insect Plague ⭐, Mass Cure Wounds          | —                     |
