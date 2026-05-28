@@ -158,9 +158,9 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 ### Nível 8 — Clérigo (TALENTO)
 
-- **Potent Spellcasting:** Adiciona o Modificador de SABEDORIA (+5) ao dano de todos os cantrips.
+- **Conjurar Magia Potente:** Adiciona o Modificador de SABEDORIA (+5) ao dano de todos os cantrips.
 - **Talento: Aprimoramento de Habilidade** → SABEDORIA 18 → 20
-- Magias novas: `Banishment` + `Death Ward`
+- Magias novas: `Banimento` + `Proteção contra Morte`
 
 > Com SABEDORIA 20, você tem o maior Spell Save DC possível. Inimigos quase nunca resistirão às suas magias.
 
@@ -247,7 +247,7 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | Item                                                             | Onde Pegar                                                                                                 |
 |------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [Shield of Devotion](https://bg3.wiki/wiki/Shield_of_Devotion)   | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) |
-| **[Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves)** ⭐   | Potter's Chest no [Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield)                           |
+| **[Luvas Luminosas](https://bg3.wiki/wiki/Luminous_Gloves)** ⭐   | Potter's Chest no [Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield)                           |
 | [Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection) | Quartermaster [Talli](https://bg3.wiki/wiki/Talli), [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) |
 | [Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)       | Baú escondido no porão do [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)                           |
 | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)     | [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar) (vault room)                                    |
