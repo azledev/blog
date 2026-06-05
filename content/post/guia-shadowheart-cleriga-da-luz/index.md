@@ -8,7 +8,7 @@ image = "cover.png"
 
 **Build:** 12 Clérigo (Subclasse: Domínio da Luz)
 
-**Momento que fica forte:** Nível 5 (Bola de Fogo + Guardiões Espirituais) / Nível 9 (Insect Plague)
+**Momento que fica forte:** Nível 5 (Bola de Fogo + Guardiões Espirituais) / Nível 9 (Praga de Insetos)
 
 ## Raça
 
@@ -50,12 +50,12 @@ image = "cover.png"
 
 ### Por que Domínio da Luz?
 
-| Vantagem                        | Detalhe                                                            |
-|---------------------------------|--------------------------------------------------------------------|
-| **Warding Flare**               | Reação para impor Desvantagem a um inimigo atacante                |
-| **Brilho da Alvorada**          | Radiant Damage em área — uma das melhores ações de Clérigo do jogo |
-| **Bola de Fogo e Flame Strike** | Magias de alto impacto com relevância até o fim do jogo            |
-| **Sinergia com Radiating Orb**  | Radiant Damage constante ativa equipamentos de debuff              |
+| Vantagem                             | Detalhe                                                            |
+|--------------------------------------|--------------------------------------------------------------------|
+| **Warding Flare**                    | Reação para impor Desvantagem a um inimigo atacante                |
+| **Brilho da Alvorada**               | Radiant Damage em área — uma das melhores ações de Clérigo do jogo |
+| **Bola de Fogo e Ataque Flamejante** | Magias de alto impacto com relevância até o fim do jogo            |
+| **Sinergia com Radiating Orb**       | Radiant Damage constante ativa equipamentos de debuff              |
 
 ---
 
@@ -166,10 +166,10 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 ### Nível 9 — Clérigo
 
-- Magias de Domínio: `Destructive Wave` + **`Flame Strike`** ⭐
-- Magias novas: `Insect Plague` ⭐ + `Mass Cure Wounds`
+- Magias de Domínio: `Onda Destrutiva` + **`Ataque Flamejante`** ⭐
+- Magias novas: `Praga de Insetos` ⭐ + `Mass Cure Wounds`
 
-> **Insect Plague** é a melhor magia ofensiva do arsenal — reduz velocidade e causa até 40 de Piercing Damage por turno.
+> **Praga de Insetos** é a melhor magia ofensiva do arsenal — reduz velocidade e causa até 40 de Piercing Damage por turno.
 > Absurdamente eficaz em chokepoints.
 
 ### Nível 10 — Clérigo
@@ -219,8 +219,8 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | 7     | Guadião da Fé, Muralha de fogo             | Domínio               |
 | 7     | Libertação                                 | —                     |
 | 8     | Banishment, Death Ward                     | —                     |
-| 9     | Destructive Wave, Flame Strike ⭐           | Domínio               |
-| 9     | Insect Plague ⭐, Mass Cure Wounds          | —                     |
+| 9     | Onda Destrutiva, Ataque Flamejante ⭐       | Domínio               |
+| 9     | Praga de Insetos ⭐, Mass Cure Wounds       | —                     |
 | 10    | Greater Restoration                        | —                     |
 | 11    | Heroes' Feast ⭐                            | —                     |
 | 12    | Planar Ally                                | —                     |
@@ -300,8 +300,8 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 
 **Late Game (Ato 3):**
 
-1. `Insect Plague` em chokepoints — imobiliza grupos inteiros.
-2. `Flame Strike` para burst de dano imediato.
+1. `Praga de Insetos` em chokepoints — imobiliza grupos inteiros.
+2. `Ataque Flamejante` para burst de dano imediato.
 3. `Inflict Wounds` upcastado (Spell Level 4-5) para dano massivo single-target (pode críticar +100).
 4. Após cada Long Rest: `Heroes' Feast` + `Aid` upcastado no grupo inteiro.
 

@@ -90,11 +90,11 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Nível 8 — Feiticeiro
 
-- Magia nova: `Dimension Door`
+- Magia nova: `Luz do dia`
 
 ### Nível 9 — Feiticeiro (TALENTO)
 
-- Magia nova: `Hold Monster`
+- Magia nova: `Dimension Door `
 - **Talento (escolha uma opção):**
 
 | Talento                                   | Quando Usar                                          |
@@ -109,16 +109,16 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Nível 10 — Feiticeiro
 
-- Magia nova: `Telekinesis`
+- Magia nova: `Hold Monster`
 
 ### Nível 11 — Feiticeiro
 
-- Magia nova: `Chain Lightning`
+- Magia nova: `Telekinesis`
 - **Última Metamagia:** `Careful Spell` *(evita acertar aliados com Bola de Fogo)*
 
 ### Nível 12 — Feiticeiro
 
-- Magia nova: `Globe of Invulnerability` *(ou Chain Lightning, o que não escolheu)*
+- Magia nova: `Chain Lightning 	`
 
 **Build final: 11 Feiticeiro / 1 Bruxo**
 
@@ -135,7 +135,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | 5              | Celeridade               | —                             |
 | 6              | Bola de Fogo ⭐           | Misseis mágicos → Contramagia |
 | Bruxo 1        | Comando ⭐                | —                             |
-| 7              | Daylight                 | —                             |
+| 7              | Luz do dia               | —                             |
 | 8              | Dimension Door           | —                             |
 | 9              | Hold Monster             | —                             |
 | 10             | Telekinesis              | —                             |
@@ -160,7 +160,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 ## Loop de Combate Básico
 
 1. **Se não tiver Celeridade de suporte:** use `Twinned Celeridade` em você + outro damage dealer.
-2. **Ative `Daylight`** num aliado próximo (para o Callous Glow Ring funcionar no Ato 2+).
+2. **Ative `Luz do dia`** num aliado próximo (para o Callous Glow Ring funcionar no Ato 2+).
 3. **Desative as Spellmight Gloves** (se tiver) antes do primeiro cast.
 4. Lance **`Raio Ardente` Quickened** num inimigo com muita vida (gera stacks de Arcane Acuity).
 5. **Reative as luvas.**

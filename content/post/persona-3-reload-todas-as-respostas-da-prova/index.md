@@ -76,7 +76,7 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 | 10/09 | “Ei, Makoto Yuki, você sabe o que significa “To spill the beans”, ou “deixar os feijões cairem”? | Revelar um segredo | #3          |
 | 11/09 | Qual livro ajudou a desenvolver a arte da magia no Renascimento?                                 | A Hermetica        | #3          |
 | 14/09 | A quem estamos nos referindo ao falar de “cara-metade”?                                          | Uma alma gêmea     | #1          |
-| 26/09 | Qual é o nome coletivo dos quatro números sagrados na numerologia?                               | Tetractys          | #3          |
+| 26/09 | Qual é o nome coletivo dos quatro números sagrados na numerologia?                               | Tetráctis          | #3          |
 
 ### Outubro Parte 1
 
