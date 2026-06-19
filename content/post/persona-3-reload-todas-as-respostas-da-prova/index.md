@@ -96,12 +96,12 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 ### Outubro Parte 2
 
-| Dia   | Pergunta                                                                                                    | Resposta     | Alternativa |
-|-------|-------------------------------------------------------------------------------------------------------------|--------------|-------------|
-| 19/10 | Usamos o número “zero” com frequência. Você sabe onde ele surgiu?                                           | Índia        | #2          |
-| 22/10 | Qual deusa romana foi teorizada como homônima do mês de abril?                                              | Vênus        | #3          |
-| 26/10 | Mas há uma região que o chama de “o mês dos deuses”, porque é para lá que todos eles vão! Você sabe qual é? | Izumo        | #2          |
-| 30/10 | Uma certa enzima realça a doçura deles quando são assados.                                                  | Beta-amilase | #1          |
+| Dia   | Pergunta                                                                                              | Resposta     | Alternativa |
+|-------|-------------------------------------------------------------------------------------------------------|--------------|-------------|
+| 19/10 | Usamos o número “zero” com frequência. Você sabe onde ele surgiu?                                     | Índia        | #2          |
+| 22/10 | Qual deusa romana, segundo certas teorias, dá nome ao mês de abril?                                   | Vênus        | #3          |
+| 26/10 | Mas tem uma região que o chama de “o mês com deuses”, porque é para onde todos eles vão! sabe qual é? | Izumo        | #2          |
+| 30/10 | Certa enzima faz aflorar a doçura nelas quando são assados. Sabe qual é ?                             | Beta-amilase | #1          |
 
 ### Novembro
 
