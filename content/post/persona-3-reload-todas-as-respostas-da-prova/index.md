@@ -80,25 +80,25 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 ### Outubro Parte 1
 
-| Dia   | Pergunta                                                                                     | Resposta         | Alternativa |
-|-------|----------------------------------------------------------------------------------------------|------------------|-------------|
-| 07/10 | Qual hormônio em seu cérebro proporciona uma sensação de realização?                         | Dopamina         | #2          |
-| 10/10 | Quem foi o fundador da Teosofia, um grupo que deu origem a muitas outras sociedades mágicas? | Helena Blavatsky | #2          |
+| Dia   | Pergunta                                                                              | Resposta         | Alternativa |
+|-------|---------------------------------------------------------------------------------------|------------------|-------------|
+| 07/10 | Qual hormônio no cérebro proporciona a sensação de conquista?                         | Dopamina         | #2          |
+| 10/10 | Quem fundou a Teosofia, um grupo que deu origem a diversas outras sociedades mágicas? | Helena Blavatsky | #2          |
 
 ### Exames do Semestre (13/10 - 16/10)
 
-| Dia   | Pergunta                                                                                                       | Resposta                | Alternativa |
-|-------|----------------------------------------------------------------------------------------------------------------|-------------------------|-------------|
-| 13/10 | O hormônio dopamina está relacionado ao nosso sentimento de realização. Cite um sintoma de sua superprodução.  | Vício                   | #3          |
-| 14/10 | Quem é considerado por muitos o primeiro numerologista, cujo nome sobrevive até hoje em um teorema matemático? | Pitágoras               | #1          |
-| 15/10 | O que acontece quando a resistência elétrica chega a zero?                                                     | Supercondutividade      | #3          |
-| 16/10 | Qual é o significado da frase “desabafar”?                                                                     | Para revelar um segredo | #3          |
+| Dia   | Pergunta                                                                                                       | Resposta           | Alternativa |
+|-------|----------------------------------------------------------------------------------------------------------------|--------------------|-------------|
+| 13/10 | A dopamina é um hormonio relacionado ao nosso sentimento de realização. Cite um sintoma de seu excesso.        | Vício              | #3          |
+| 14/10 | Quem é tido por muitos como o primeiro numerólogo, cujo nome permanece vivo até hoje em um teorema matemático? | Pitágoras          | #1          |
+| 15/10 | O que acontece quando a resistência elétrica chega a zero? Dica: foi a palavra que usei para me declarar...    | Supercondutividade | #3          |
+| 16/10 | Qual é o significado da espressão “to spill the beans”?                                                        | Revelar um segredo | #3          |
 
 ### Outubro Parte 2
 
 | Dia   | Pergunta                                                                                                    | Resposta     | Alternativa |
 |-------|-------------------------------------------------------------------------------------------------------------|--------------|-------------|
-| 19/10 | Usamos muito o número “zero”. Você sabe de onde veio originalmente?                                         | Índia        | #2          |
+| 19/10 | Usamos o número “zero” com frequência. Você sabe onde ele surgiu?                                           | Índia        | #2          |
 | 22/10 | Qual deusa romana foi teorizada como homônima do mês de abril?                                              | Vênus        | #3          |
 | 26/10 | Mas há uma região que o chama de “o mês dos deuses”, porque é para lá que todos eles vão! Você sabe qual é? | Izumo        | #2          |
 | 30/10 | Uma certa enzima realça a doçura deles quando são assados.                                                  | Beta-amilase | #1          |
@@ -119,7 +119,7 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 | 09/12 | Que tipo de feitiçaria dizem que Himiko usava?                                            | Kido.               | #2          |
 | 11/12 | Você sabe qual dos seguintes é um substantivo plural irregular?                           | Lives.              | #2          |
 
-### Exames do Semestre (12/14 - 12/18)
+### Exames do Semestre (14/12 - 18/12)
 
 | Data  | Pergunta                                                                                                                 | Resposta        | Alternativa |
 |-------|--------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
