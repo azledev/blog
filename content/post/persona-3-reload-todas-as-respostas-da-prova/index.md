@@ -105,11 +105,11 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 ### Novembro
 
-| Dia   | Pergunta                                                                  | Resposta                      | Alternativa |
-|-------|---------------------------------------------------------------------------|-------------------------------|-------------|
-| 07/11 | Qual é o antigo texto mágico indiano que mencionei hoje?                  | Os Upanishads                 | #1          |
-| 12/11 | O que ela estava descrevendo com uma linha tão esparsa?                   | Sua época favorita no inverno | #1          |
-| 30/11 | No poema que Genji, o protagonista, manda para ela, a que ele a comparou? | A flor de cerejeira           | #1          |
+| Dia   | Pergunta                                                                   | Resposta                   | Alternativa |
+|-------|----------------------------------------------------------------------------|----------------------------|-------------|
+| 07/11 | Quais são as as escrituras antigas mágicas da Índia que eu mencionei hoje? | Os Upanixades              | #1          |
+| 12/11 | O que ela estava descrevendo nessa frase tão enxuta?                       | A hora favorita no inverno | #1          |
+| 30/11 | No poema que Genji, o protagonista, manda para ela, a que ele a comparou?  | A flor de cerejeira        | #1          |
 
 ### Dezembro parte 1
 
