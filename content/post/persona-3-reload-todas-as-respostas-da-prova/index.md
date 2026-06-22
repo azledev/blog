@@ -137,7 +137,7 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 ### Janeiro
 
-| Data  | Pergunta                                                                                                     | Resposta    | Alternativa |
-|-------|--------------------------------------------------------------------------------------------------------------|-------------|-------------|
-| 08/01 | "O ano novo é o índice de uma jornada para um certo lugar." Qual é esse "certo lugar" ao qual ele se refere? | O submundo. | #3          |
-| 18/01 | Eu mencionei duas feiticeiras gregas. Uma era Medeia. Quem era a outra?                                      | Circe.      | #2          |
+| Data  | Pergunta                                                                        | Resposta    | Alternativa |
+|-------|---------------------------------------------------------------------------------|-------------|-------------|
+| 08/01 | "O ano novo é o índice de uma jornada a certo lugar." Que "certo lugar" é esse? | O submundo. | #3          |
+| 18/01 | Mencionei duas feiticeiras gregas. Uma era Medeia. E a outra?                   | Circe.      | #2          |
