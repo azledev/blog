@@ -115,19 +115,19 @@ comigo jogando de novo vou corrigir a tradução aos poucos para ficar algo cert
 
 | Data  | Pergunta                                                                                  | Resposta            | Alternativa |
 |-------|-------------------------------------------------------------------------------------------|---------------------|-------------|
-| 07/12 | Qual é o nome da camada estratosférica composta por moléculas de três átomos de oxigênio? | A camada de ozônio. | #1          |
-| 09/12 | Que tipo de feitiçaria dizem que Himiko usava?                                            | Kido.               | #2          |
-| 11/12 | Você sabe qual dos seguintes é um substantivo plural irregular?                           | Lives.              | #2          |
+| 07/12 | Qual é o nome da camada estratosférica de moléculas compostas de oxigênio de três átomos? | A camada de ozônio. | #1          |
+| 09/12 | Que tipo de magia dizem que Himiko usava?                                                 | Kido.               | #2          |
+| 11/12 | Você sabe qual desses substantivos foge da regra ?                                        | Cidadão.            | #2          |
 
 ### Exames do Semestre (14/12 - 18/12)
 
-| Data  | Pergunta                                                                                                                 | Resposta        | Alternativa |
-|-------|--------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
-| 14/12 | Qual das opções a seguir se originou na Índia?                                                                           | O número zero.  | #1          |
-| 15/12 | Quando aquecidas, as enzimas beta-amilase nas batatas-doces reagem com o amido presente para produzir qual dissacarídeo? | Maltose.        | #2          |
-| 16/12 | Qual deusa romana foi teorizada como a origem do nome do mês de abril?                                                   | Vênus.          | #3          |
-| 17/12 | Em *O Conto de Genji*, com quem Hikaru Genji compara as flores de cerejeira?                                             | Murasaki-no-Ue. | #4          |
-| 18/12 | Qual das palavras a seguir não está na forma plural correta?                                                             | Geeses.         | #4          |
+| Data  | Pergunta                                                                                                                       | Resposta        | Alternativa |
+|-------|--------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|
+| 14/12 | Das opções abaixo, qual teve origem na Índia?                                                                                  | O número zero.  | #1          |
+| 15/12 | Quando aquecidas, as enzimas beta-amilase da batatas-doce reagem com o amido nela existente e produzem uma dissacarídeo. Qual? | Maltose.        | #2          |
+| 16/12 | Qual deusa romana, segundo certas teorias, dá nome ao mês de abril                                                             | Vênus.          | #3          |
+| 17/12 | No Conto de Genji, quem Hikaru Genji compara a flores de cerejeira?                                                            | Murasaki-no-Ue. | #4          |
+| 18/12 | Qual dos plurais abaixo não está correto?                                                                                      | Fênixes.        | #4          |
 
 ### Dezembro parte 2
 
