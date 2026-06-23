@@ -2,3 +2,6 @@ baseURL = "https://blog.zockalves.com"
 languageCode = "pt-br"
 title = "Emerson Leonardo Blog"
 theme = "hugo-theme-stack"
+
+[params]
+googleSiteVerification = "DywJ8sxFheZi40b4Y0f41OW7GSwXuABUiDb0FIzHoRI"
