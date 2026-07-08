@@ -194,32 +194,32 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 
 ### Ato 3
 
-| Item                | Onde Pegar                     |
-|---------------------|--------------------------------|
-| **Markoheshkir** ⭐⭐ | Sorcerous Sundries             |
-| Spellmight Gloves   | Pickpocket Lucretious (Circus) |
-| Rhapsody            | Cazador                        |
-| Armour of Landfall  | Sorcerous Sundries             |
-| Cloak of the Weave  | Loja secreta                   |
-| Hellrider's Longbow | Lower City                     |
+| Item                                                           | Onde Pegar                                                                                 |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [**Markoheshkir**](https://bg3.wiki/wiki/Markoheshkir) ⭐⭐      | [Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower)                               |
+| [Spellmight Gloves](https://bg3.wiki/wiki/Spellmight_Gloves)   | Pickpocket [Lucretious](https://bg3.wiki/wiki/Lucretious) (Circus)                         |
+| [Rhapsody](https://bg3.wiki/wiki/Rhapsody)                     | [Cazador](https://bg3.wiki/wiki/Cazador)                                                   |
+| [Armour of Landfall](https://bg3.wiki/wiki/Armour_of_Landfall) | [Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower)                               |
+| [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave) | [Helsik](https://bg3.wiki/wiki/Helsik) [Loja secreta](https://bg3.wiki/wiki/Devil%27s_Fee) |
+| [Hellrider's Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) | (Ferg Drogher)[https://bg3.wiki/wiki/Ferg_Drogher] (Lower City)[Rivington]                 |
 
 ---
 
 ## Equipamentos Final de Build
 
-| Slot      | Item                      |
-|-----------|---------------------------|
-| Main Hand | Markoheshkir              |
-| Off Hand  | Rhapsody                  |
-| Ranged    | Hellrider's Longbow       |
-| Helmet    | Hat of Fire Acuity        |
-| Armor     | Armour of Landfall        |
-| Gloves    | Spellmight Gloves         |
-| Boots     | Boots of Stormy Clamour   |
-| Cloak     | Cloak of the Weave        |
-| Amulet    | Spineshudder Amulet       |
-| Ring 1    | Callous Glow Ring         |
-| Ring 2    | Ring of Mental Inhibition |
+| Slot      | Item                                                                            |
+|-----------|---------------------------------------------------------------------------------|
+| Main Hand | [**Markoheshkir**](https://bg3.wiki/wiki/Markoheshkir)                          |
+| Off Hand  | [Rhapsody](https://bg3.wiki/wiki/Rhapsody)                                      |
+| Ranged    | [Hellrider's Longbow](https://bg3.wiki/wiki/Hellrider_Longbow)                  |
+| Helmet    | [**Chapéu de Acuidade de Fogo**](https://bg3.wiki/wiki/Hat_of_Fire_Acuity) ⭐⭐   |
+| Armor     | [Armour of Landfall](https://bg3.wiki/wiki/Armour_of_Landfall)                  |
+| Gloves    | [Spellmight Gloves](https://bg3.wiki/wiki/Spellmight_Gloves)                    |
+| Boots     | [Botas de Tempestade Estrondosa](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour) |
+| Cloak     | [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)                  |
+| Amulet    | [Amuleto Tremeespinha](https://bg3.wiki/wiki/Spineshudder_Amulet)               |
+| Ring 1    | [Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)                    |
+| Ring 2    | [Anel de Inibição Mental](https://bg3.wiki/wiki/Ring_of_Mental_Inhibition)      |
 
 ---
 

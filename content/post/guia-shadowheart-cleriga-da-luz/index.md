@@ -169,7 +169,8 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 - Magias de Domínio: `Onda Destrutiva` + **`Ataque Flamejante`** ⭐
 - Magias novas: `Praga de Insetos` ⭐ + `Mass Cure Wounds`
 
-> **Praga de Insetos** é a melhor magia ofensiva do arsenal — reduz velocidade e causa até 40 de Piercing Damage por turno.
+> **Praga de Insetos** é a melhor magia ofensiva do arsenal — reduz velocidade e causa até 40 de Piercing Damage por
+> turno.
 > Absurdamente eficaz em chokepoints.
 
 ### Nível 10 — Clérigo
@@ -257,10 +258,10 @@ Shadowheart provavelmente será a primeira companheira que você encontrará:
 | Item                                                                             | Onde Pegar                                                                                                                                    |
 |----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | **[Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)** ⭐⭐              | [Mystic Carrion](https://bg3.wiki/wiki/Mystic_Carrion), [Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) (+2 Spell Save DC) |
-| **[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)** ⭐             | Helsik, Devil's Fee (+1 Spell Save DC)                                                                                                        |
-| **[Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)** ⭐         | Baú de oferendas, Stormshore Tabernacle (+2 Spell Save DC)                                                                                    |
-| [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) | Viconia DeVir, Cloister of Sombre Embrace                                                                                                     |
-| [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           | Baú dourado trancado, Wyrm's Rock Fortress                                                                                                    |
+| **[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)** ⭐             | [Helsik](https://bg3.wiki/wiki/Helsik) [Loja secreta](https://bg3.wiki/wiki/Devil%27s_Fee)                                                    |
+| **[Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)** ⭐         | X: 796 Y: 1159: In the main Offering Chest in the basement, [Stormshore Tabernacle](https://bg3.wiki/wiki/Stormshore_Tabernacle)              |
+| [Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress) | [Viconia DeVir](https://bg3.wiki/wiki/Viconia_DeVir), [Cloister of Sombre Embrace](https://bg3.wiki/wiki/Cloister_of_Sombre_Embrace)          |
+| [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)                           | X: -32 Y: 219 Baú dourado trancado, [Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)                                      |
 
 ---
 
