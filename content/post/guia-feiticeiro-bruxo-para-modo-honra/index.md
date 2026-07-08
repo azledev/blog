@@ -201,7 +201,7 @@ Qualquer raça funciona, mas Halfling é a escolha otimizada.
 | [Rhapsody](https://bg3.wiki/wiki/Rhapsody)                     | [Cazador](https://bg3.wiki/wiki/Cazador)                                                   |
 | [Armour of Landfall](https://bg3.wiki/wiki/Armour_of_Landfall) | [Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower)                               |
 | [Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave) | [Helsik](https://bg3.wiki/wiki/Helsik) [Loja secreta](https://bg3.wiki/wiki/Devil%27s_Fee) |
-| [Hellrider's Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) | (Ferg Drogher)[https://bg3.wiki/wiki/Ferg_Drogher] (Lower City)[Rivington]                 |
+| [Hellrider's Longbow](https://bg3.wiki/wiki/Hellrider_Longbow) | [Ferg Drogher](https://bg3.wiki/wiki/Ferg_Drogher) [Lower City](Rivington)                 |
 
 ---
 
